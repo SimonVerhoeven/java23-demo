@@ -3,4 +3,8 @@
 :toc-placement:
 :toclevels: 3
 
+Java 23 will be released on the 17th of September, but the branch was already made on the 6th of June so we now know the full feature set.
+So let us take a closer look at what's awaiting us!
+
+
 https://openjdk.org/jeps/466 - Class file API - 2nd preview
