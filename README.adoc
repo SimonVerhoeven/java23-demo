@@ -3,8 +3,12 @@
 :toc-placement:
 :toclevels: 3
 
-Java 23 will be released on the 17th of September, but the branch was already made on the 6th of June so we now know the full feature set.
+Java 23 will be released on the 17th of September, but the branch was already made on the 6th of June, so we now know the full feature set.
 So let us take a closer look at what's awaiting us!
+
+== Final
+
+* ZGC is now generational by default
 
 == Preview
 
