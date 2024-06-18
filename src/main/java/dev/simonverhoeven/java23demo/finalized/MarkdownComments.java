@@ -4,6 +4,12 @@ public class MarkdownComments {
 
     /// Returns a [java.lang.Integer] which is the sum of 2 numbers
     ///
+    /// Considerations:
+    /// - the sum must fit
+    /// - this is a sample
+    ///
+    /// @param number1 the first number
+    /// @param number2 the second number
     /// We can use simple tables for example
     /// | number1 | number2 | result |
     /// |---------|---------|--------|
