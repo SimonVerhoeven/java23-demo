@@ -17,6 +17,7 @@ So let us take a closer look at what's awaiting us!
 * Markdown in comments (JEP-467)
 * Stream gatherers - 2nd preview (JEP-473)
 * Module Import Declarations (JEP 476)
+* Implicitly Declared Classes and Instance Main Methods (Third Preview) (JEP-477)
 
 == Removed
 
