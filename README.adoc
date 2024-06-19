@@ -13,12 +13,13 @@ So let us take a closer look at what's awaiting us!
 == Preview
 
 * Primitive patterns (JEP-455)
-* Class-file API - 2nd preview (JEP-466)
+* Class-file API - Second preview (JEP-466)
 * Markdown in comments (JEP-467)
-* Stream gatherers - 2nd preview (JEP-473)
+* Stream gatherers - Second preview (JEP-473)
 * Module Import Declarations (JEP 476)
-* Implicitly Declared Classes and Instance Main Methods (Third Preview) (JEP-477)
-* Scoped Values (Third Preview) (JEP-481)
+* Implicitly Declared Classes and Instance Main Methods - Third Preview (JEP-477)
+* Scoped Values - Third Preview (JEP-481)
+* Flexible Constructor Bodies - Second Preview (JEP-482)
 
 == Removed
 

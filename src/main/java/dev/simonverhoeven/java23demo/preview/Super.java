@@ -1,7 +1,7 @@
 package dev.simonverhoeven.java23demo.preview;
 
 /*
-JEP 447 - Statements Before Super(...) (Preview)
+JEP 482 - Flexible Constructor Bodies (Second Preview)
 */
 public class Super extends Life{
     private static final int MEANING_OF_LIFE = 42;
