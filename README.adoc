@@ -18,6 +18,7 @@ So let us take a closer look at what's awaiting us!
 * Stream gatherers - 2nd preview (JEP-473)
 * Module Import Declarations (JEP 476)
 * Implicitly Declared Classes and Instance Main Methods (Third Preview) (JEP-477)
+* Scoped Values (Third Preview) (JEP-481)
 
 == Removed
 
