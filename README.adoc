@@ -21,6 +21,10 @@ So let us take a closer look at what's awaiting us!
 * Scoped Values - Third Preview (JEP-481)
 * Flexible Constructor Bodies - Second Preview (JEP-482)
 
+== Incubation
+
+* Vector API - Eight iteration (JEP-469)
+
 == Removed
 
 String templates will not be included in JDK 23, for reference: https://mail.openjdk.org/pipermail/amber-spec-experts/2024-April/004106.html[update on String Templates]

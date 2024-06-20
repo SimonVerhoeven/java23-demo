@@ -6,10 +6,9 @@ import jdk.incubator.vector.VectorSpecies;
 
 import java.util.Arrays;
 
-// JEP 460 Vector API - Seventh incubation
+// JEP 469 Vector API - Eight incubation
 
 /*
-
     Samples: https://github.com/openjdk/jdk/tree/master/test/micro/org/openjdk/bench/jdk/incubator/vector
  */
 
