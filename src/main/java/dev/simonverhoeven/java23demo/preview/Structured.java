@@ -3,6 +3,8 @@ package dev.simonverhoeven.java23demo.preview;
 import java.util.concurrent.StructuredTaskScope;
 import java.util.function.Supplier;
 
+// JEP 480: Structured Concurrency (Third Preview)
+
 public class Structured {
 
     public GarderobeSelectionInput composeGarderobeSelectionInput(String userId) {

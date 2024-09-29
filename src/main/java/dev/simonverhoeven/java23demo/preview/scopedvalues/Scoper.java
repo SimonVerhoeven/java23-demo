@@ -1,6 +1,6 @@
 package dev.simonverhoeven.java23demo.preview.scopedvalues;
 
-// JEP 464 - Scoped Values (Second preview)
+// JEP 481 - Scoped Values (Third preview)
 
 public class Scoper {
     public final static ScopedValue<String> NAME = ScopedValue.newInstance();

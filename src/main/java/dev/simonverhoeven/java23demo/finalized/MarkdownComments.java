@@ -1,5 +1,6 @@
 package dev.simonverhoeven.java23demo.finalized;
 
+// JEP 467: Markdown Documentation Comments
 public class MarkdownComments {
 
     /// Returns a [java.lang.Integer] which is the sum of 2 numbers

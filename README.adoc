@@ -8,7 +8,8 @@ So let us take a closer look at what's awaiting us!
 
 == Final
 
-* ZGC is now generational by default
+* Deprecate the Memory-Access Methods in sun.misc.Unsafe (JEP 471)
+* ZGC is now generational by default (JEP-474)
 
 == Preview
 
