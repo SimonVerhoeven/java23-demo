@@ -1,8 +1,10 @@
 package dev.simonverhoeven.java23demo.preview;
 
-import module java.lang;
 import module java.base;
 
+import static java.lang.System.out;
+
+// JEP 476: Module Import Declarations (Preview)
 
 public class ModuleImport {
 
