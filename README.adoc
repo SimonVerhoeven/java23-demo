@@ -30,4 +30,3 @@ So let us take a closer look at what's awaiting us!
 
 String templates will not be included in JDK 23, for reference: https://mail.openjdk.org/pipermail/amber-spec-experts/2024-April/004106.html[update on String Templates]
 
-https://openjdk.org/jeps/466 - Class file API - 2nd preview
