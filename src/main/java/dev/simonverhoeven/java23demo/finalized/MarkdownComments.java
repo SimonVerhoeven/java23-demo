@@ -8,14 +8,16 @@ public class MarkdownComments {
     /// Considerations:
     /// - the sum must fit
     /// - this is a sample
-    ///
-    /// @param number1 the first number
-    /// @param number2 the second number
+    /// 
     /// We can use simple tables for example
+    ///
     /// | number1 | number2 | result |
     /// |---------|---------|--------|
     /// | 1       | 2       | 3      |
     /// | 5       | 6       | 11     |
+    ///
+    /// @param number1 the first number
+    /// @param number2 the second number
     public Integer sampleMethod(Integer number1, Integer number2) {
         return number1 + number2;
     }
